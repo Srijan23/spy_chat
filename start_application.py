@@ -22,13 +22,13 @@ def start_application () :
 
     print   ' Your details : - ' \
 
-             '\n Name : ' + spy.name \
+            '\n Name : ' + spy.name +\
 
-            '\n Age : ' + str(spy.age) \
+            '\n Age : ' + str(spy.age) +\
 
-            '\n Rating : ' + str(spy.rating) \
+            '\n Rating : ' + str(spy.rating) +\
 
-            '\n Is online : ' + str(spy.is_online) \
+            '\n Is online : ' + str(spy.is_online)
 
     raw = raw_input("Press enter to continue .........")
 

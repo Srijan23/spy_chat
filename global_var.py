@@ -32,4 +32,4 @@ def select_friend():
 
 def ty() :
 
-    print "thank you!!! \n project crated by :- Anup Kumar Aditya 3rd year"
+    print "thank you!!! \n project crated by :- Srijan Gupta 3rd year"
